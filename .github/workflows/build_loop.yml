@@ -288,6 +288,7 @@ jobs:
           now_line \
           lnl_icon \
           2002 \
+          meal_week \
           basal_lock \
           watch_title
 
